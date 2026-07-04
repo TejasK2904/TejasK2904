@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TejasK2904
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning a Data analytics course
+- 👀 Currently working as Data Analyst @ Koderz technology
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me I'm mentoning my mail tejaskhobragde2918@gmail.com
 - 😄 Pronouns: ...
